@@ -1,2 +1,3 @@
 # pr-preview-action-testing
-Test repo for PR Preview Action
+
+This is the integration test environment for [PR Preview Action](https://github.com/rossjrw/pr-preview-action) by **[@rossjrw](https://github.com/rossjrw)**.

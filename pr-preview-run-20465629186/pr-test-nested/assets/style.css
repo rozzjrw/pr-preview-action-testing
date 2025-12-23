@@ -1,0 +1,7 @@
+.styled {
+    background-color: green;
+}
+
+.styled::after {
+    content: " (CSS loaded)";
+}
